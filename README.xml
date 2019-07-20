@@ -1,0 +1,49 @@
+<?xml version='1.0' ?><!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<book>
+	<title>README</title>
+	<chapter id="ddns">
+		<title>ddns</title>
+		<section id="h4-1">
+			<section>
+				<section>
+					<title>椤圭洰浠嬬粛</title>
+					<para>Java瀹炵幇闃块噷浜戠殑鍔ㄦ�佸煙鍚嶈В鏋愶紙鍒╃敤闃块噷浜慳pi锛岄渶瑕佹湁鍏綉ip锛�
+						鐜板湪閮芥槸鍔ㄦ�両P锛屾瘡娆P鍙樹簡灏卞緱浠庢柊鍦ㄩ樋閲屼簯鍚庡彴鏀广�傜敤闃块噷浜戣В鏋愭彁渚涚殑鎺ュ彛锛屽彲浠ヨ嚜鍔ㄤ慨鏀硅В鏋愮殑IP銆�
+						闇�瑕佸叕缃慖P锛屼竴鑸仈閫氾紝鐢典俊瀹藉甫鏄湁鍏綉ip鐨勶紝鍙笉杩囪矾鐢卞櫒閲嶅惎浼氭洿鏀瑰叕缃慽p锛屽鏋滄病鏈夊叕缃慽p缁欏鏈嶆墦鐢佃瘽搴旇涔熻兘瑕佸埌銆�</para>
+				</section>
+				<section id="h4-2">
+					<title>杞欢鏋舵瀯</title>
+					<para>maven椤圭洰 
+						浠巋ttp://2018.ip138.com/ic.asp缃戠珯涓婄埇鍙栨湰鏈虹殑鍏綉ip
+						浣跨敤闃块噷浜慳pi 瑙ｆ瀽鍩熷悕</para>
+				</section>
+				<section id="h4-3">
+					<title>瀹夎鏁欑▼</title>
+					<para>target鏂囦欢澶归噷鐨刣dns-0.0.1-SNAPSHOT.jar鍖呫��
+						鐢ㄨВ鍘嬭蒋浠舵墦寮�ddns-0.0.1-SNAPSHOT.jar銆�
+						淇敼ddns.properties锛�</para>
+					<para>AccessKeyID=yourId锛堥樋閲屾帶鍒跺彴鍙充笂瑙掗噷鎵撅級
+						AccessKeySecret=yourSecret锛堥樋閲屾帶鍒跺彴鍙充笂瑙掗噷鎵撅級
+						DomainName=baidu.com</para>
+					<para>DomainName锛氭槸闃块噷娉ㄥ唽鐨勫煙鍚嶏紙鏍煎紡锛歺xxx.com鎴杧xxx.top绛夛級</para>
+				</section>
+				<section id="h4-4">
+					<title>浣跨敤璇存槑</title>
+					<orderedlist>
+						<listitem>
+							<para>棣栧厛闇�瑕侀樋閲屼簯鐨勫煙鍚嶏紙渚垮疁鐨�6鍏冮骞达級</para>
+						</listitem>
+						<listitem>
+							<para>鍙互鑷繁缁х画寮�鍙戜篃鍙互鐩存帴淇敼閰嶇疆鏂囦欢锛屼箣鍚巑aven install 锛宼arget鏂囦欢閲岀殑jar鍖呭氨鍙互鐩存帴鐢ㄣ��</para>
+						</listitem>
+						<listitem>
+							<para>涔熷彲浠ユ寜鐓т笂闈㈢洿鎺ヤ慨鏀筳ar鍖呯敤</para>
+						</listitem>
+					</orderedlist>
+					<para>杩愯锛氾紙鍦↙inux涔熷彲浠ユ斁鍒癱rontab閲岃嚜鍔ㄨ繍琛岋級
+						java -jar ddns-0.0.1-SNAPSHOT.jar</para>
+				</section>
+			</section>
+		</section>
+	</chapter>
+</book>
